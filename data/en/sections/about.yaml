@@ -10,16 +10,16 @@ section:
 # your designation
 designation: Tile and Construction Expert
 # your company information
-company:
-  name: Kyles Tile Co.
-  url: "https://www.kylestileco.com"
+## company:
+  ## name: Kyles Tile Co.
+  ## url: "https://www.kylestileco.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hi, I’m dKyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
+summary: "Hi, I’m Kyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -35,8 +35,12 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "Get A Quote"
+- title: "Get a Quote"
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfGWgDJvrLxTL189p45Q7vE3Ymi0Oh5hSKdLECHv3-mFObMvg/viewform"
+
+- title: "Leave a review"
+  url: "https://www.yelp.com/biz/kyles-tile-and-construction-silverton"
+
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -47,17 +51,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Quality
-  percentage: 90
+  percentage: 100
   color: green
 
 - type: soft-skill-indicator
   name: Craftsmanship
-  percentage: 90
+  percentage: 100
   color: green
 
 - type: soft-skill-indicator
   name: Customer Service
-  percentage: 90
+  percentage: 100
   color: green
 
 - type: certification
