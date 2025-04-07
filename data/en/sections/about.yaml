@@ -8,19 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Tile and Construction Expert
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Kyles Tile Co.
+  url: "https://www.kylestileco.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
-
+summary: "Hi, I’m Kyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

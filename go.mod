@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/gsmallwood1194/kylestile_hugo.git
 
 go 1.21
 
