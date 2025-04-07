@@ -19,48 +19,27 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hi, I’m Kyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
+summary: "Hi, I’m dKyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "kylestileco@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+- name: Yelp
+  icon: "fas fa-bullhorn"
+  url: "https://www.yelp.com/biz/kyles-tile-and-construction-silverton"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
   url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
-
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+- title: "Get A Quote"
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfGWgDJvrLxTL189p45Q7vE3Ymi0Oh5hSKdLECHv3-mFObMvg/viewform"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
