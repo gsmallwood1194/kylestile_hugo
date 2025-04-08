@@ -18,50 +18,57 @@ buttons:
   filter: "tile"
 - name: Bath
   filter: "bath"
+- name: Remodel
+  filter: "remodel"
 
 # your projects
 projects:
-- name: Shower Install
-  logo: fas fa-paint-roller
-  image: /images/sections/projects/showers.png
-  role: Full Remodel
-  timeline: "2024"
-  
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  image: /images/sections/projects/showers.png
-  summary: 'Expert tile installation in showers, providing a sleek, durable finish with precision and water resistance.'
-  tags: ["bath", "tile"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: Custom Tile
+  role: Slate Stairway
+  logo: fas fa-hammer
+  image: /images/sections/projects/Floors.png
+  
+  #timeline: "Jun 2018 - Present"
+  #repo: https://github.com/tensorflow/tensorflow
   #url: ""
   summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  tags: ["tile", "flooring", "general contracting"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Kitchen Facelift
+  role: Subway Back Splash
+  logo: fas fa-kitchen-set
+  image: /images/sections/projects/BackSplash.png
+  #timeline: "Jan 2017 - Nov 2017"
+  #url: "https://www.example.com"
+  summary: Transform your kitchen with a stylish backsplash upgrade to modern designs, vibrant colors, and durable materials create the perfect blend of functionality and elegance for your kitchen.
+  tags: ["tile","kitchen", "remodel"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: Bathroom Leak Repair
+  logo: fas fa-toilet
+  image: /images/sections/projects/leakrepair.png
+  role: Rotten Removal
+  #timeline: "Oct 2019 - Dec 2019"
+  #repo: https://github.com/kelseyhightower/nocode
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: Restore bathroom functionality with expert toilet leak repairs and flooring replacement—revive your space with seamless results.
+  tags: ["contracting", "construction", "bath", "repair" ]
 
-- name: Toha
-  logo: fas fa-paint-roller
-  image: /images/sections/projects/Showers.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Bathroom Tile
+  logo: fas fa-bath
+  image: /images/sections/projects/brfloor.png
+  role: modern style
+  #timeline: "Jun 2019 - Present"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Upgrade your bathroom with chic flooring options—modern designs, durable materials, and a touch of elegance to transform your space.
+  tags: ["floor","bath","tile","contracting"]
+
+- name: Bathroom Upgrades
+  role: full remodel
+  logo: fas fa-sink
+  image: /images/sections/projects/brremodel.png
+  role: modern style
+  #timeline: "Jun 2019 - Present"
+  #repo: https://github.com/hossainemruz/toha
+  summary: Revamp your bathroom with bold designs and refined features—crafted to exude strength and sophistication while maintaining a timeless appeal.
+  tags: ["contracting","bath","remodel"]
