@@ -22,6 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Shower Install
+  image: /images/sections/projects/showers.png
   role: Full Remodel
   timeline: "2024"
   
