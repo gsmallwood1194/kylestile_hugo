@@ -22,6 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Shower Install
+  logo: fas fa-paint-roller
   image: /images/sections/projects/showers.png
   role: Full Remodel
   timeline: "2024"
@@ -57,8 +58,8 @@ projects:
   tags: ["hobby", "fun"]
 
 - name: Toha
-  logo: /images/sections/projects/Showers.png
-  image: /images/sections/projects/toha_website.png
+  logo: fas fa-paint-roller
+  image: /images/sections/projects/Showers.png
   role: Owner
   timeline: "Jun 2019 - Present"
   repo: https://github.com/hossainemruz/toha
