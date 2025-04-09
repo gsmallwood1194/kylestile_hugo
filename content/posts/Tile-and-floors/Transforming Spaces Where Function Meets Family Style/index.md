@@ -27,4 +27,4 @@ Here are some valuable tips to help you transform your spaces:
 
 ### Final Thoughts and Summary
 
-Upgrading your bathroom, kitchen, and tile spaces doesn't have to break the bank. By prioritizing functionality, choosing durable materials, and incorporating storage, you can create a home that's both beautiful and practical for your family's needs. At [Your Company Name], we offer a range of luxury and budget-friendly solutions to help you achieve your dream home. Contact us today to learn more about our customized renovation services!
+Upgrading your bathroom, kitchen, and tile spaces doesn't have to break the bank. By prioritizing functionality, choosing durable materials, and incorporating storage, you can create a home that's both beautiful and practical for your family's needs. At Kyle's Tile and Construction, we offer a range of luxury and budget-friendly solutions to help you achieve your dream home. Contact us today to learn more about our customized renovation services!

@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Kyles Tile and Construction"
+    title: "Kyle's Tile and Construction"
     weight: 1
 
 # default language for the content

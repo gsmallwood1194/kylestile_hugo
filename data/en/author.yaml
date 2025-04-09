@@ -2,7 +2,7 @@
 name: "Kyle King"
 nickname: " "
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Howdy, how can Kyles Tile and Construction help you reach your design goals?"
+greeting: "Howdy, how can Kyle's Tile and Construction help you reach your design goals?"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
