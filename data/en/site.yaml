@@ -23,7 +23,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Kyle's Tile and Construction
   type: website
   description: Portfolio and personal blog of John Doe.
   image: images/author/john.png

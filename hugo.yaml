@@ -1,7 +1,7 @@
 baseURL: kylestile-hugo.pages.dev
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Kyle's Tile and Construction"
 
 # Use Hugo modules to add theme
 module:

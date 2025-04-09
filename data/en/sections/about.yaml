@@ -19,7 +19,10 @@ designation: Licensed, Bonded, and Insured
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Hi, I’m Kyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. "
+summary: |
+          Hi, I’m Kyle, owner of Kyle’s Tile Co. based right here in Silverton, Oregon. I’ve been in the tile and remodeling business for years, and this work is something I truly take pride in. Whether it’s a full bathroom or kitchen remodel, a custom tile job, or just bringing new life to an old space — I’m here to help you turn your vision into reality. At Kyle’s Tile Co., I focus on craftsmanship, communication, and making sure every detail is done right. I personally work with you from start to finish, making sure the end result is something we’re both proud of. My team and I handle everything from tile installation and flooring to drywall repair and general contracting. If you're looking for honest, high-quality work with a personal touch, you’re in the right place. Let’s build something great together. 
+          <br> <br> Call me today: 503-951-3476
+          
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -47,8 +50,6 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 
-
-
 - type: soft-skill-indicator
   name: Quality
   percentage: 100
@@ -64,10 +65,15 @@ badges:
   percentage: 100
   color: green
 
-- type: certification
-  name: Licensed, Bonded, and Insured
-  url: "https://www.oregon.gov/ccb/pages/ccb%20license.aspx"
-  badge: "files/seal-of-oregon.jpg"
+- type: soft-skill-indicator
+  name: Expertise
+  percentage: 100
+  color: green
+
+#- type: certification
+ # name: Licensed, Bonded, and Insured
+ # url: "https://www.oregon.gov/ccb/pages/ccb%20license.aspx"
+ # badge: "files/seal-of-oregon.jpg"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
